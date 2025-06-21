@@ -1,2 +1,2 @@
 //good
-//wbu version 3
+//wbu
